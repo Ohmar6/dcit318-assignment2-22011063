@@ -1,0 +1,14 @@
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.exe
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.deps.json
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.runtimeconfig.json
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.dll
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.pdb
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.AssemblyInfoInputs.cache
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.AssemblyInfo.cs
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.dll
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\obj\Debug\net9.0\refint\AbstractClassesAndMethods.dll
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.pdb
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.genruntimeconfig.cache
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\2\AbstractClassesAndMethods\obj\Debug\net9.0\ref\AbstractClassesAndMethods.dll
