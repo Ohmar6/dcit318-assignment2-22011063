@@ -1,0 +1,14 @@
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\bin\Debug\net9.0\Interface.exe
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\bin\Debug\net9.0\Interface.deps.json
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\bin\Debug\net9.0\Interface.dll
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\bin\Debug\net9.0\Interface.pdb
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\obj\Debug\net9.0\Interface.dll
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\obj\Debug\net9.0\refint\Interface.dll
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\obj\Debug\net9.0\Interface.pdb
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\3\Interface\obj\Debug\net9.0\ref\Interface.dll
