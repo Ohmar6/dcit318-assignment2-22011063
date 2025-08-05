@@ -1,0 +1,14 @@
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.exe
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.deps.json
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.runtimeconfig.json
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.dll
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.pdb
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.AssemblyInfoInputs.cache
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.AssemblyInfo.cs
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.csproj.CoreCompileInputs.cache
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.dll
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\obj\Debug\net9.0\refint\InheritanceAndOverriding.dll
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.pdb
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.genruntimeconfig.cache
+E:\Documents\University of Ghana Legon\Level 300\Sem 2\DCIT 318 Programming II\1\InheritanceAndOverriding\obj\Debug\net9.0\ref\InheritanceAndOverriding.dll
